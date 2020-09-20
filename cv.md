@@ -39,4 +39,4 @@ Higher education in Saint Petersburg Electrotechnical University "LETI":
 *Bachelor of Information Systems and Technologies (2015-2019)
 *Master of Information Systems and Technologies (2019-2021)
 #### 8. English
-I studied English at school, then in depth at the university for two years before the start of specialized subjects. Now at the university there is an in-depth study of English. Also studying for Lingualeo and the VenyaPakTV YouTube channel.
+I studied English at school, then in depth at the university for two years before the start of specialized subjects. Now at the university there is an in-depth study of English. Also studying for Lingualeo and the VenyaPakTV YouTube channel. 
