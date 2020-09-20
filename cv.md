@@ -17,7 +17,7 @@ Mass maximum (the max method returns the maximum element from the passed array)
 		int[] array = initializeArray();
 		int max = max(array);
 		System.out.println(max);
-	}
+	}refactor: change structure of the project
 	public static int[] initializeArray() throws IOException {
 		BufferedReader r = new BufferedReader( new InputStramReader( System.in)
 		int[] array = new int[20];
