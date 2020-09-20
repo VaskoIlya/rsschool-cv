@@ -1,6 +1,6 @@
 1. Vasko Ilya
 ----------------
-2.Phone number: +375298279904 or email: vasko_ilja@mail.ru
+2. Phone number: +375298279904 or email: vasko_ilja@mail.ru
 -------------------------------------------------------------  
 3. Qualities: quick learning, attentiveness, politeness, high efficiency, diligence, responsiveness, self-criticism, hard work, teamwork, communication skills, responsibility. I worked as an engineer for a year and during this year I met a lot of different people in the firm and was on good terms with everyone. From personal hobbies I love sports. Earlier  i played football every day, now I go to the gym. Active, young specialist.
 -----------------------------------------------------------------------------------------------------------------------
